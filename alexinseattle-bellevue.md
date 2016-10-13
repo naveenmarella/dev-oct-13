@@ -1,6 +1,6 @@
 Here is my change
 
-
+My second change at 11:04 am
 
 here is another cahnge
 ## Bellevue, WA
@@ -9,3 +9,7 @@ here is another cahnge
 - Fishermen's Terminal
 - Pallisades
 - At Alkis
+
+
+- Added another place to visit
+Discovery Park
